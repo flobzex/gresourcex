@@ -1,5 +1,5 @@
 # gresourcex
-a gresource file extractor made in python
+A GResource file extractor made in python.
 
 ## What is GResource?
 GResource is a precompiled bundle file that stores the source files
